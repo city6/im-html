@@ -117,6 +117,19 @@
   }
 }
 
+
+.im-admin-msg{
+  position: absolute;
+  color: #999999;
+  right: -10px;
+  bottom: 0;
+  width: 100%;
+  display: block;
+  font-size: 12px;
+  transform: translateX(100%); 
+}
+
+
 .im {
   &-footer {
     padding: 20px 30px;
